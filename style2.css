@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Roboto:ital,wght@0,400;0,500;0,700;1,300;1,700&display=swap');
+body{
+    background-color: #47B5FF;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.global-challenge{
+    margin:40px 20px ;
+    background-color: #FFFF00;
+    color: cyan;
+}
+.challenge{
+    padding: 40px 20px;
+
+}
+#arrogant-challenge{
+    background-color: #DFF6FF;
+
+}
+#owl-challenge{
+    padding: 0px ;
+}
+#cool-challenge{
+    border: 4px solid red;
+}
+#ghost-challenge{
+    display: none;
+}
+#angry-challenge{
+    color: red;
+}
+#tree-challenge p{
+    text-decoration: underline;
+}
+#unsatisfied-challenge > p{
+    font-family: 'Bungee Spice', cursive;
+}
